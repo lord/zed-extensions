@@ -1,0 +1,7 @@
+id = "lordtheme"
+name = "Theme for zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Robert Lord <hello@lord.io>"]
+description = "just a theme for zed"
+repository = "https://github.com/lord/zed-extensions"
