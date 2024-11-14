@@ -44,7 +44,9 @@
 ; Variables
 ;----------
 
-[(type_variable) (value_pattern)] @variable
+(value_pattern) @variable
+
+(type_variable) @variable.special
 
 ; Properties
 ;-----------
