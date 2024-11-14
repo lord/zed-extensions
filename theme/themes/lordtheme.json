@@ -191,7 +191,7 @@
           },
           "comment": {
             "color": "#b8cfe680",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "comment.doc": {
@@ -346,7 +346,7 @@
           },
           "tag": {
             "color": "#dfbfffff",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "text.literal": {
@@ -371,7 +371,7 @@
           },
           "variable.special": {
             "color": "#d4fe7fff",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "variant": {
