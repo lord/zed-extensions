@@ -285,7 +285,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#72cffeff",
+            "color": "#cccac2ff",
             "font_style": null,
             "font_weight": null
           },
@@ -340,7 +340,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#72cffeff",
+            "color": "#dfbfffff",
             "font_style": null,
             "font_weight": null
           },
@@ -361,6 +361,11 @@
           },
           "variable": {
             "color": "#cccac2ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.special": {
+            "color": "#ff0000ff",
             "font_style": null,
             "font_weight": null
           },
