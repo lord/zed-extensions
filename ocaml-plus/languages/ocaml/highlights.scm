@@ -53,8 +53,12 @@
 
 [(field_name) (instance_variable_name)] @property
 
+; optional constructor color for fields in record constructors and patterns
 (field_expression
     name: (field_path (field_name) @property.constructor))
+
+(field_pattern
+    (field_path (field_name) @property.constructor))
 
 ; Labels
 ;-------
