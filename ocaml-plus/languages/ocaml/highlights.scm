@@ -51,7 +51,10 @@
 ; Properties
 ;-----------
 
-[(field_path) (instance_variable_name)] @property
+[(field_name) (instance_variable_name)] @property
+
+(field_expression
+    name: (field_path (field_name) @property.constructor))
 
 ; Labels
 ;-------

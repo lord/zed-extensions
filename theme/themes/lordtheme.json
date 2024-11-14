@@ -285,6 +285,11 @@
             "font_weight": null
           },
           "property": {
+            "color": "#72cffeff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "property.constructor": {
             "color": "#cccac2ff",
             "font_style": null,
             "font_weight": null
@@ -365,7 +370,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#ff0000ff",
+            "color": "#d4fe7fff",
             "font_style": null,
             "font_weight": null
           },
